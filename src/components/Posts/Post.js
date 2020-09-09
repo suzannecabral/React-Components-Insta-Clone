@@ -28,7 +28,7 @@ const Post = props => {
         likePost = {likePost}
         // post = {posts}
         // posts = {posts}
-      // comments = {posts.comments}
+        comments = {post.comments}
       />
     </div>
   );
