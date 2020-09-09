@@ -13,7 +13,7 @@ const Posts = (props) => {
         <Post 
         likePost = {likePost}
         posts = {posts}
-        post = 'test'
+        post = {posts}
         />
       })
       
